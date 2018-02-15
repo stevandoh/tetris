@@ -1,0 +1,34 @@
+##### TETRIS INSTALLATION#####
+
+The game was build using python3.
+
+If it is not already installed on your machine. Please
+click on the appropriate link based on your OS
+
+***Windows****
+https://www.howtogeek.com/197947/how-to-install-python-on-windows/
+
+***linux***
+* debian flavor
+https://www.digitalocean.com/community/tutorials/how-to-install-python-3-and-set-up-a-local-programming-environment-on-ubuntu-16-04
+
+* RHEL (centos, fedora)
+https://www.digitalocean.com/community/tutorials/how-to-install-python-3-and-set-up-a-local-programming-environment-on-centos-7
+
+##### Installation######
+
+1. Windows
+Go to the folder named windows_version
+If you re running the game for the first time 
+	* if your python version is 32 bits double click on setup32.bat
+	* if your python version is 64 bits double click on setup64.bat
+Then double click on runTetris.bat to play the game 
+
+2. Unix based os 
+Open you terminal 
+go to the location the unixVersion folder 
+enter python3 tetris.py 
+
+
+
+
